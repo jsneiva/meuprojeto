@@ -1,0 +1,8 @@
+{
+  "name": "meuprojeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jsneiva/meuprojeto.git",
+  "author": "josenilson <josenilson.neiva@gmail.com>",
+  "license": "MIT"
+}
